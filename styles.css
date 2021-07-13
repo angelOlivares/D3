@@ -1,0 +1,6 @@
+.container {
+  display:flex;
+}
+.grafico1, .grafico2 {
+  flex-direction:column;
+}
