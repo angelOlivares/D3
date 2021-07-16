@@ -9,7 +9,3 @@ Condiciones para el APTO:
 - Los colores del mapa deben representar los precios medios del alquiler. 
 - Debe haber al menos una transición en una de las gráficas.
 - Al cargarse la visualización, en la gráfica XY se debe representar los datos de UN solo barrio (puede ser cualquiera que elijais).
-
-https://stackoverflow.com/questions/39023154/how-to-make-a-color-gradient-bar-using-d3js
-
-https://www.d3indepth.com/datajoins/
